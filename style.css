@@ -1,0 +1,20 @@
+body {
+    background-color:skyblue;
+    color: #ca7c90;
+    size: 75px;
+}
+
+h1{
+    color: maroon;
+}
+
+a{
+    color: maroon;
+}
+
+h2{
+    color: rgb(21, 155, 189);
+}
+A {
+    text-decoration: none;
+} 
